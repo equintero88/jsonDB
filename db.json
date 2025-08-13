@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "wendy",
+      "state": true,
+      "deck": [21, 2, 34, 4, 5]
+    },
+    {
+      "id": 2,
+      "username": "manuela",
+      "state": true,
+      "deck": [5, 2, 31, 6, 58]
+    },
+    {
+      "id": 3,
+      "username": "emanuel",
+      "state": true,
+      "deck": [52, 22, 37, 43, 59]
+    }
+  ],
+}
