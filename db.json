@@ -21,14 +21,14 @@
   ],
   "cards":[
     { "value": 2,  "name": "Dos de picas",    "suit": "picas", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/2picas.png" },
-    { "value": 3,  "name": "Tres de diamantes",    "suit": "picas", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/3diamante.png" },
-    { "value": 4,  "name": "Cuatro de diamantes",    "suit": "picas", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/4diamante.png" },
-    { "value": 5,  "name": "Cinco de corazones",    "suit": "picas", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/5corazones.png" },
-    { "value": 6,  "name": "Seis de trebores",    "suit": "picas", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/6trebores.png" },
+    { "value": 3,  "name": "Tres de diamantes",    "suit": "diamantes", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/3diamante.png" },
+    { "value": 4,  "name": "Cuatro de diamantes",    "suit": "diamantes", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/4diamante.png" },
+    { "value": 5,  "name": "Cinco de corazones",    "suit": "corazones", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/5corazones.png" },
+    { "value": 6,  "name": "Seis de tréboles",    "suit": "tréboles", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/6trebores.png" },
     { "value": 7,  "name": "Siete de picas",    "suit": "picas", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/7picas.png" },
-    { "value": 8,  "name": "Ocho de corazones",    "suit": "picas", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/8corazones.png" },
-    { "value": 9,  "name": "Nueve de corazones",    "suit": "picas", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/9corazones.png" },
-    { "value": 10,  "name": "Diez de trebores",    "suit": "picas", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/10trebores.png" }
+    { "value": 8,  "name": "Ocho de corazones",    "suit": "corazones", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/8corazones.png" },
+    { "value": 9,  "name": "Nueve de corazones",    "suit": "corazones", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/9corazones.png" },
+    { "value": 10,  "name": "Diez de tréboles",    "suit": "tréboles", "image": "https://raw.githubusercontent.com/equintero88/jsonDB/refs/heads/main/images/10trebores.png" }
  
   ]
 }
